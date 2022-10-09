@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemies
+  - Ground
+  - Bullet
+  - BackGround
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Physical Layer
+  - Water
+  - UI
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3614480595
+    locked: 0
+  - name: Fore-BG
+    uniqueID: 2250949717
+    locked: 0
+  - name: Ara Katman
+    uniqueID: 2723930951
+    locked: 0
+  - name: Back of PL
+    uniqueID: 2663583179
+    locked: 0
+  - name: Physical Layer
+    uniqueID: 3476375875
+    locked: 0
+  - name: Fore OF PL
+    uniqueID: 4251282527
+    locked: 0

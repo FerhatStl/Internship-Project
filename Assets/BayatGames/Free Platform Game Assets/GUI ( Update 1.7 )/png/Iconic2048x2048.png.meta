@@ -1,0 +1,3578 @@
+fileFormatVersion: 2
+guid: 2676ff5c94fc9f1489d59bf570d079e3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iconic2048x2048_0
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1847
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f08c6c1ad6672449f9150af10ea03d
+      internalID: 101956846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1847
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbccc6c6e062e34a9950468fca36116
+      internalID: -1473313085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1847
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c987dab271c6f4ea164ced47fc5cb0
+      internalID: -1429871596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1847
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c859e1edf80607440a686a5f5ce8bf42
+      internalID: 1385464622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_4
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1847
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddc72ce8f847064f9d761d271069c69
+      internalID: -413315563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_5
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1847
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8106807d1a6b20944bc7c47497eebd14
+      internalID: 1708712900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_6
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1847
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b3178edb293314b8a81cd33f503d07
+      internalID: 1948699858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_7
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1847
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b44c0f2d9a3c6b4bb7edb4b9577e960
+      internalID: -1328679048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_8
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1847
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c8c66e442acb04ea8358887e6d2696
+      internalID: 770511273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_9
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1847
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc48e51eb828734cb988aba2a7b6952
+      internalID: -1288313060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_10
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1847
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c621847d6e78c894ab7d5f74592bcdee
+      internalID: 1621553885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_11
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1847
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e75ba45f5b0c75489266d76b76fbc6e
+      internalID: 878004460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_12
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1699
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281516bb5deccf0479d388259f62857e
+      internalID: 895612157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_13
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1699
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb2718561ad12546ade8166158d00d8
+      internalID: 1166717954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_14
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1699
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4042246011efe3c40bc236792f0e5c8a
+      internalID: 1477022191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_15
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1699
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1604b0a1091bd4aa079b5e41081ab9
+      internalID: -1252159069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_16
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1699
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48383a39d77df846a69bc4e151515e5
+      internalID: -737262967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_17
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1699
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694449a4afd5d764f87253e24a4539fc
+      internalID: -303601669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_18
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1699
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0988b955cdf1fd46899f578c3a9c9aa
+      internalID: 95387406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_19
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1699
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c985579e6893d4490b83964a39d683
+      internalID: 1101653688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_20
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1699
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30e49f1b6a440d48a5e04a8c01e314c
+      internalID: 1496839745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_21
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1699
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8753f165e3d2021458c13c3f3ab3c9eb
+      internalID: -720252340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_22
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1699
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004a56362aaf1b04ea68d61489de9c0e
+      internalID: -407552740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_23
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1699
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c768e66e9288549a5b46bf231daa50
+      internalID: 2134645485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1551
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd2b89f880bb7f4abe498d1ea739778
+      internalID: 824987669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1551
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99b45f675d61be4e86be4a7a5173e4a
+      internalID: 2132961881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_26
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1551
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cd28b4080b50049ac88d473eb74abe
+      internalID: -1449790920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_27
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1551
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b445caa808d7c74cac5314f056853f0
+      internalID: 446634862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_28
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1551
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31548fba689da814fa78ba370491fbe8
+      internalID: 1666539434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_29
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1551
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacc9ed44af24ad4e9f788d33f140838
+      internalID: 1035281309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_30
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1551
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff379c7935c749240b1d4cd93b0ebb08
+      internalID: 513680995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_31
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1551
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476fa63704199604ab2f04cc06482ca7
+      internalID: -351803018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_32
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1551
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5f6278cfefaac499982ab0e63efe39
+      internalID: 1753711873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_33
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1551
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bd715ccd909384a82063b1c82cb11a
+      internalID: 1891140275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_34
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1551
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ab569954aead446a13cf0408bb50fa
+      internalID: 862174034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_35
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1551
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2733c10c37a58e4ca5adae8484edcf2
+      internalID: -2068362853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_36
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1403
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6f4806e16990343a17c7767e239861
+      internalID: -1644485599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_37
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1403
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1907e5ec7c49a624e9d80fe97f1fa44e
+      internalID: -1277450069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_38
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1403
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecae4889131212e43a5a50b9477465d2
+      internalID: -210392276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_39
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1403
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df64ca82ac0558748999da240140b969
+      internalID: -1227198413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_40
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1403
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d292b0fce400625408f78eaa7f4d744e
+      internalID: 653978472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_41
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1403
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5af650e4e7bbe45bcf4abe8643d418
+      internalID: 1385885325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_42
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1403
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe2d90cd2e0ad64d855419f536d0c7a
+      internalID: -207578987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_43
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1403
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766373212fb367147aaadc6860a31c59
+      internalID: 12069228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_44
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1403
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39ac379b92f27b448b14b39ac8ce992
+      internalID: -763383782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_45
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1403
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad6af01cab1d1449a9498ec0eb2be5f
+      internalID: -626828475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_46
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1403
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd363bb8f014cfd419696038df3c2b87
+      internalID: -338070749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_47
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1403
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a5ecb2ad5e2264ea8910ad42763761
+      internalID: 705277855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_48
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1255
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a07411c5795d8347a3daf4897272c27
+      internalID: 1730303038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_49
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1255
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bb628d3de072a4dac70727edc781da
+      internalID: 1590384045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_50
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1255
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2de5ed0f82dafe4a9a823b26f253d87
+      internalID: -1176373500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_51
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1255
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fd1825caa86eb46b4e55bee547433c
+      internalID: -2134463209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_52
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1255
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb86b4ac6ad19945843fff777950ea5
+      internalID: 918491159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_53
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1255
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ea5233837cd4c458e61d0571fbbeac
+      internalID: -1642801963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_54
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1255
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5b21e27e3c2974980aea049d708fde
+      internalID: -2003173671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_55
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1255
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfeea618def8cb4295992127715f243
+      internalID: 1089795599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_56
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1255
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44716cc9547475142a46e0d37e78d095
+      internalID: 1406617268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_57
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1255
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44fbdbfa1ef9294a9d1bcc5ede8fbc4
+      internalID: -1327751440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_58
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1255
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148730937de228d4b884ebd446ddf4c7
+      internalID: -1991344159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_59
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1255
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af3809660a4607408568ac8a2a8c710
+      internalID: -1799844164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1107
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d94a0f8ab4a2e43904ab68e419c061
+      internalID: -488681501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_61
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1107
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eab0e5905d25de428a738ebccd912e5
+      internalID: 1096143763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_62
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1107
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4a51e74eb992f4daef04217c0c8b34
+      internalID: 1384176142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_63
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1107
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5472838b6ddc9c49969d6be79a5aa0f
+      internalID: -1978174208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_64
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1107
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7da2f57ff982c64c80e6f383ebb15e3
+      internalID: -927260903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_65
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1107
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4c7741f98083c4c864419c724fb38c
+      internalID: -41949847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_66
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1107
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69366274a74f12e4c9e721ab89bcc53c
+      internalID: -1569293840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_67
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1107
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e88440df4fee834289d21a301751936
+      internalID: 853863559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_68
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 1107
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1208dad5ef441d74c8185ebe8bdcb45a
+      internalID: -976972473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_69
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 1107
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e32a3280c94dc64da3f8acebb869037
+      internalID: 2103815876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_70
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1107
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed8048c18fb0824e9b506d4c6ceb6bb
+      internalID: -199941634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_71
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 1107
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171c79540409b644895c5d91c82eaed3
+      internalID: -252830143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_72
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 960
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb1ee7008943eda4e85a1cc4f8726768
+      internalID: -598207603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_73
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 960
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22eba8b4c07d80d4f8c5aa5bc5a80a19
+      internalID: -790319327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_74
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 960
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13be1468b22f7047801e69b02c2d21e
+      internalID: 131404770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_75
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 960
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a690489421c073249aba1e04525d77ca
+      internalID: 871523040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_76
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 960
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23759b520b9a7d4eb4b9eaf345d9835
+      internalID: 2016313285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_77
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 960
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b1a32c9c79d57438f7f6c45f9266dc
+      internalID: -2131869713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_78
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 960
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7e32a286671d74eb97fbc59216ec2c
+      internalID: 237099463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_79
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 960
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d48158a19fbef140af1f1fe0a149f40
+      internalID: 867735626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_80
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 960
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd9b876836dc3d4b83c0c053e5e5f85
+      internalID: 382155777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_81
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 960
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8443256e00a854c9a66654f699d24f
+      internalID: -705975843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_82
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 960
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8eb92df000b314b82e4cfd010af1f2
+      internalID: -1151728130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_83
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 960
+        width: 129
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91366773d7aced140bda215838cfb10e
+      internalID: 239739979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_84
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 812
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919401230dd70754da2b42599e91caaa
+      internalID: -450629403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_85
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 812
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cfcae35b41846498a57cf231bfc126
+      internalID: -1606812109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_86
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 812
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c613546e6f2e246b03828fe19b806d
+      internalID: -2021633631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_87
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 812
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c20d38e211e79d479d2340290c9b68d
+      internalID: -596362900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_88
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 812
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9432158a1bea2134d9f4a7bdebfccd52
+      internalID: 1045294891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_89
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 812
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22247af4893c000428dc3ff631150ce9
+      internalID: 1843869643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_90
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 812
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10531373899313489fa6ad368466f89
+      internalID: 1846632878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_91
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 812
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08000ed04685ee14b8bcac17e699fd4d
+      internalID: -1670941315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_92
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 812
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7fc7a985996ca45890b7d55669c372
+      internalID: 1086526726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_93
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 812
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821e7656953bfab4c88063f9c16d9a45
+      internalID: -1430100671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_94
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 812
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2ec32fdc3ca3242b8b6dea22ee63bd
+      internalID: 687163301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_95
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 812
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef1a4a7ce0786849a72b0748242123d
+      internalID: 975163707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_96
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 664
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbb07980159c3248a0a51667464e6a9
+      internalID: 138713232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_97
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 664
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43961694321736e40866e6c1d4114f5b
+      internalID: -1843151918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_98
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 664
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bd6ec98a8602e4ca068a14690edf73
+      internalID: -97835686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_99
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 664
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c302841bf56304a4391808be931976a9
+      internalID: 1448623341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_100
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 664
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747bea6d4b2b774498b68d0951f208c5
+      internalID: -1689619209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_101
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 664
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc07bb2820cf924fb3e0c29fee268b8
+      internalID: 2005866152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_102
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 664
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb54ea94c9ab814e9f01258ea607eeb
+      internalID: -993204606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_103
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 664
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf619c80901dd149ab6a1a8a6bd53fd
+      internalID: 679831698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_104
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 664
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7bdd2bc5fe13e418d43ce1acdf7cf2
+      internalID: -1192480272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_105
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 664
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e6c41a34cf52545957b96e41c1a149
+      internalID: -743122014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_106
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 664
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c03cf83e817d234b94950cdafb6722b
+      internalID: -1985232530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_107
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 664
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a87a7661d314c45a19de7fa086aaf2
+      internalID: 153811048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_108
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 516
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1645356e4de0ca4ea7bd8f2d337a632
+      internalID: -806907661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_109
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 516
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734973feb209bac428814a503538ad31
+      internalID: 452081577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_110
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 516
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa005a30bc9bad4f9cf3ef2a1d60bdd
+      internalID: 1990176762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_111
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 516
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7faf19d93ea9449b7d33fd1a6a308e
+      internalID: -1374794350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_112
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 516
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d07febebabbd149817b45a93cb862d
+      internalID: 1391657836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_113
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 516
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8eea7b017b86d46b7f417bd49e2598
+      internalID: 1888345346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_114
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 516
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f594342cf4a5d74b9e9796680e7c263
+      internalID: -1832286632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_115
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 516
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e263d6c98b191408c4b39dd126521d
+      internalID: -1072186330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_116
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 516
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37826484d3a4284699c348899930e2e
+      internalID: -834553163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_117
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 516
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcba133e85083e48bcbd2e12852ad2b
+      internalID: -1541897841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_118
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 516
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047dde06d4b43c7458c4c67dbbb0b50e
+      internalID: -832191481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_119
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 516
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9f898aa10aee74a80ea630a2564fbc
+      internalID: -2133108396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_120
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 368
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af1728389295f642958ebdd524fda20
+      internalID: 1333624935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_121
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 368
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0759d540bc9407409a62a14faf7751d
+      internalID: -2000941644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_122
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 368
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e92813e7aa14843b85429aeb4b7d1d
+      internalID: -216270271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_123
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 368
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94fdb4945eb1c44d87a68b361bad744
+      internalID: 2099310088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_124
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 368
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d3a831d74114e41b8d2b02d3db58b0
+      internalID: 1355929542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_125
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 368
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a774d39e784cc5479380cc7e8aa026b
+      internalID: -2016961643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_126
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 368
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcc74faad2701848825dd592b786a24
+      internalID: -483070062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_127
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 368
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f86f0ed00d41e499d4a8eb491ebed3
+      internalID: 1149851893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_128
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 368
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770ca7160da2a7742a7f4b3c810be9ab
+      internalID: -1904749311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_129
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 368
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6434af9f7b922e343b4cca5aa694f6c1
+      internalID: -1930426188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_130
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 368
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e923caea26d2548aefd20f50267d80
+      internalID: -312661135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_131
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 368
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e025ad2fe54cee0469e7fa8f9afc0f4b
+      internalID: 2078099055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_132
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 220
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192aa3d2b0c9d7f40a3c78d77849d2c1
+      internalID: 1761100257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_133
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 220
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2732b603e3d9f4882a366dd2a1fce1
+      internalID: 817199996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_134
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 220
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb16d6280755ca489e647bc2d5eec24
+      internalID: -955530519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_135
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 220
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24adb81fb39339842b97722b7891abf0
+      internalID: 187413076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_136
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 220
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc61769c4fd01241a408556bfb79486
+      internalID: 787551428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_137
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 220
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1e7cc3b81f4084dbaf6e2720243a83
+      internalID: 1340804839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_138
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 220
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebfadba931bbbb46856a13bfb3e1708
+      internalID: -1198192557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_139
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 220
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bdf60194ef59b64b8f7a4a373f61b77
+      internalID: 1628060225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_140
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 220
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9b1fd58e3b6bb4791d4918a600bce2
+      internalID: -422912120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_141
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 220
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a776fc1962ce5b94f9dcd50095172fc3
+      internalID: 1954805510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_142
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 220
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca35a9884fa2cc49812568cde8265bf
+      internalID: 1044636231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_143
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 220
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0327b24347228c64d9b3af6026d88050
+      internalID: -89000841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_144
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 72
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d51551e3c975f499309ed77641518b
+      internalID: -454005064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_145
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 72
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f22a07549b9eeb4283c6cd7178892ec
+      internalID: -1984630025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_146
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 72
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf38bdab71d04b41bc0164a0849bb5c
+      internalID: -721300405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_147
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 72
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8446d5e49614524db57ced075c2956a
+      internalID: 430796461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_148
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 72
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f07a6f2e73e7645bbfbf48685f59bf
+      internalID: 369382939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_149
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 72
+        width: 128
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec5955771132bb4ca176b63d7ceff55
+      internalID: -1360367721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_150
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 72
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793eda8f825d1d14bbfca84ba2fd26f4
+      internalID: -1396307642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_151
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 72
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e612c0f5ac3d8d49a7f0ea1571e6b99
+      internalID: 2102091389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_152
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 72
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9e9105f7f6aa845aa03e453d8cce0e
+      internalID: 407281103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_153
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 72
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd6f7a96df15ab43892cb0b2966faba
+      internalID: -1345972462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_154
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 72
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2337e28eed9e3c84ba28ccf793317894
+      internalID: 2065781914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iconic2048x2048_155
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 72
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b3e0c7ffea1634982877eef0f1dd72
+      internalID: 469101691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0710d8a8ac8e6bb4aa9f297ebf17f92e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Iconic2048x2048_60: -488681501
+      Iconic2048x2048_13: 1166717954
+      Iconic2048x2048_85: -1606812109
+      Iconic2048x2048_106: -1985232530
+      Iconic2048x2048_4: -413315563
+      Iconic2048x2048_21: -720252340
+      Iconic2048x2048_78: 237099463
+      Iconic2048x2048_115: -1072186330
+      Iconic2048x2048_25: 2132961881
+      Iconic2048x2048_43: 12069228
+      Iconic2048x2048_138: -1198192557
+      Iconic2048x2048_80: 382155777
+      Iconic2048x2048_105: -743122014
+      Iconic2048x2048_77: -2131869713
+      Iconic2048x2048_70: -199941634
+      Iconic2048x2048_114: -1832286632
+      Iconic2048x2048_9: -1288313060
+      Iconic2048x2048_22: -407552740
+      Iconic2048x2048_75: 871523040
+      Iconic2048x2048_33: 1891140275
+      Iconic2048x2048_69: 2103815876
+      Iconic2048x2048_41: 1385885325
+      Iconic2048x2048_86: -2021633631
+      Iconic2048x2048_120: 1333624935
+      Iconic2048x2048_12: 895612157
+      Iconic2048x2048_113: 1888345346
+      Iconic2048x2048_116: -834553163
+      Iconic2048x2048_46: -338070749
+      Iconic2048x2048_45: -626828475
+      Iconic2048x2048_68: -976972473
+      Iconic2048x2048_79: 867735626
+      Iconic2048x2048_3: 1385464622
+      Iconic2048x2048_95: 975163707
+      Iconic2048x2048_27: 446634862
+      Iconic2048x2048_65: -41949847
+      Iconic2048x2048_73: -790319327
+      Iconic2048x2048_57: -1327751440
+      Iconic2048x2048_1: -1473313085
+      Iconic2048x2048_131: 2078099055
+      Iconic2048x2048_62: 1384176142
+      Iconic2048x2048_149: -1360367721
+      Iconic2048x2048_48: 1730303038
+      Iconic2048x2048_98: -97835686
+      Iconic2048x2048_88: 1045294891
+      Iconic2048x2048_119: -2133108396
+      Iconic2048x2048_130: -312661135
+      Iconic2048x2048_2: -1429871596
+      Iconic2048x2048_124: 1355929542
+      Iconic2048x2048_36: -1644485599
+      Iconic2048x2048_136: 787551428
+      Iconic2048x2048_94: 687163301
+      Iconic2048x2048_10: 1621553885
+      Iconic2048x2048_141: 1954805510
+      Iconic2048x2048_15: -1252159069
+      Iconic2048x2048_129: -1930426188
+      Iconic2048x2048_137: 1340804839
+      Iconic2048x2048_49: 1590384045
+      Iconic2048x2048_152: 407281103
+      Iconic2048x2048_91: -1670941315
+      Iconic2048x2048_100: -1689619209
+      Iconic2048x2048_47: 705277855
+      Iconic2048x2048_126: -483070062
+      Iconic2048x2048_55: 1089795599
+      Iconic2048x2048_17: -303601669
+      Iconic2048x2048_104: -1192480272
+      Iconic2048x2048_76: 2016313285
+      Iconic2048x2048_71: -252830143
+      Iconic2048x2048_51: -2134463209
+      Iconic2048x2048_139: 1628060225
+      Iconic2048x2048_8: 770511273
+      Iconic2048x2048_145: -1984630025
+      Iconic2048x2048_122: -216270271
+      Iconic2048x2048_93: -1430100671
+      Iconic2048x2048_127: 1149851893
+      Iconic2048x2048_29: 1035281309
+      Iconic2048x2048_140: -422912120
+      Iconic2048x2048_5: 1708712900
+      Iconic2048x2048_83: 239739979
+      Iconic2048x2048_125: -2016961643
+      Iconic2048x2048_44: -763383782
+      Iconic2048x2048_84: -450629403
+      Iconic2048x2048_14: 1477022191
+      Iconic2048x2048_154: 2065781914
+      Iconic2048x2048_133: 817199996
+      Iconic2048x2048_96: 138713232
+      Iconic2048x2048_50: -1176373500
+      Iconic2048x2048_53: -1642801963
+      Iconic2048x2048_24: 824987669
+      Iconic2048x2048_97: -1843151918
+      Iconic2048x2048_134: -955530519
+      Iconic2048x2048_58: -1991344159
+      Iconic2048x2048_34: 862174034
+      Iconic2048x2048_102: -993204606
+      Iconic2048x2048_7: -1328679048
+      Iconic2048x2048_56: 1406617268
+      Iconic2048x2048_32: 1753711873
+      Iconic2048x2048_0: 101956846
+      Iconic2048x2048_87: -596362900
+      Iconic2048x2048_107: 153811048
+      Iconic2048x2048_89: 1843869643
+      Iconic2048x2048_112: 1391657836
+      Iconic2048x2048_121: -2000941644
+      Iconic2048x2048_28: 1666539434
+      Iconic2048x2048_63: -1978174208
+      Iconic2048x2048_38: -210392276
+      Iconic2048x2048_40: 653978472
+      Iconic2048x2048_147: 430796461
+      Iconic2048x2048_103: 679831698
+      Iconic2048x2048_111: -1374794350
+      Iconic2048x2048_16: -737262967
+      Iconic2048x2048_92: 1086526726
+      Iconic2048x2048_108: -806907661
+      Iconic2048x2048_109: 452081577
+      Iconic2048x2048_18: 95387406
+      Iconic2048x2048_128: -1904749311
+      Iconic2048x2048_19: 1101653688
+      Iconic2048x2048_118: -832191481
+      Iconic2048x2048_67: 853863559
+      Iconic2048x2048_110: 1990176762
+      Iconic2048x2048_23: 2134645485
+      Iconic2048x2048_52: 918491159
+      Iconic2048x2048_144: -454005064
+      Iconic2048x2048_26: -1449790920
+      Iconic2048x2048_6: 1948699858
+      Iconic2048x2048_37: -1277450069
+      Iconic2048x2048_59: -1799844164
+      Iconic2048x2048_54: -2003173671
+      Iconic2048x2048_61: 1096143763
+      Iconic2048x2048_31: -351803018
+      Iconic2048x2048_66: -1569293840
+      Iconic2048x2048_74: 131404770
+      Iconic2048x2048_72: -598207603
+      Iconic2048x2048_153: -1345972462
+      Iconic2048x2048_39: -1227198413
+      Iconic2048x2048_146: -721300405
+      Iconic2048x2048_99: 1448623341
+      Iconic2048x2048_123: 2099310088
+      Iconic2048x2048_150: -1396307642
+      Iconic2048x2048_11: 878004460
+      Iconic2048x2048_148: 369382939
+      Iconic2048x2048_20: 1496839745
+      Iconic2048x2048_64: -927260903
+      Iconic2048x2048_90: 1846632878
+      Iconic2048x2048_117: -1541897841
+      Iconic2048x2048_143: -89000841
+      Iconic2048x2048_101: 2005866152
+      Iconic2048x2048_42: -207578987
+      Iconic2048x2048_81: -705975843
+      Iconic2048x2048_82: -1151728130
+      Iconic2048x2048_142: 1044636231
+      Iconic2048x2048_135: 187413076
+      Iconic2048x2048_132: 1761100257
+      Iconic2048x2048_30: 513680995
+      Iconic2048x2048_151: 2102091389
+      Iconic2048x2048_35: -2068362853
+      Iconic2048x2048_155: 469101691
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
